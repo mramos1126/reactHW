@@ -7,7 +7,7 @@ var Main = React.createClass({
 	render: function(){
 		return(
 			<div className="container">
-
+				<h1> React js is something </h1>
 
 
 				{this.props.children}

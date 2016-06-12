@@ -13,6 +13,7 @@ var Main = React.createClass({
                 <Query/>
                 <Results />
             </div>
+        
         )
     }
 });

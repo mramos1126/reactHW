@@ -24697,6 +24697,11 @@
 			return React.createElement(
 				'div',
 				{ className: 'container' },
+				React.createElement(
+					'h1',
+					null,
+					' React js is something '
+				),
 				this.props.children
 			);
 		}
